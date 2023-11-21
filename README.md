@@ -30,6 +30,7 @@ _Для сборки необходим [Maven](https://maven.apache.org/downloa
 ![img.png](images/403.png)
 
 Страница про отсутствии доступа
+
 ![img.png](images/404.png)
 
 Неизвестная страница
