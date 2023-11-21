@@ -1,0 +1,17 @@
+.center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.admin-key-input {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.admin-key-input--visible {
+    display: block;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
