@@ -38,13 +38,13 @@ public class User {
    * Пароль пользователя.
    */
   @NotEmpty
-  @Column(name = "u_password")
+  @Column(name = "password")
   private String password;
 
   /**
    * Роль пользователя в системе.
    */
-  @Column(name = "u_role")
+  @Column(name = "role")
   private String role;
 
   /**

@@ -6,11 +6,6 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import ru.sfu.mvc.models.User;
 
-import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.authority.SimpleGrantedAuthority;
-import java.util.Collection;
-import java.util.Collections;
-
 /**
  * Реализация интерфейса UserDetails для предоставления информации о пользователе системы.
  */
